@@ -9,10 +9,29 @@
     <description>Recent content in Posts on Mano naujas puslapis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 Dec 2023 17:40:17 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 15 Dec 2023 18:40:06 +0200</lastBuildDate>
     
 	<atom:link href="https://Martynaspota.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Img</title>
+      <link>https://Martynaspota.github.io/posts/img/</link>
+      <pubDate>Fri, 15 Dec 2023 18:40:06 +0200</pubDate>
+      
+      <guid>https://Martynaspota.github.io/posts/img/</guid>
+      <description>
+        
+          &lt;img src=&#34;https://Martynaspota.github.io/example.jpg&#34;/&gt;
+          
+        
+        
+        
+          title = &amp;lsquo;Postas&amp;rsquo; date = 2023-12-15T17:40:17+02:00 draft = false cover = &amp;rsquo;example.jpg&#39;
+          
+        
+        </description>
+    </item>
     
     <item>
       <title>Postas</title>
